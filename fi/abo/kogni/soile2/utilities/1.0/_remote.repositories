@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Jan 11 09:39:24 EET 2023
+#Wed Jan 11 12:22:19 EET 2023
+utilities-1.0.pom>SOILE\ Repo=
 utilities-1.0.pom>=
 utilities-1.0.jar>=
+utilities-1.0.jar>SOILE\ Repo=
+utilities-1.0.jar>Scicomp\ Repo=
+utilities-1.0.pom>Scicomp\ Repo=

@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 06 06:53:16 EEST 2023
+#Mon Sep 04 13:01:28 EEST 2023
 qmarkup-2.1.2.jar>=
 qmarkup-2.1.2.pom>=
+qmarkup-2.1.2.pom>Soile\ Repo=
+qmarkup-2.1.2.jar>Soile\ Repo=
